@@ -1,4 +1,4 @@
-#include <ncurses.h>
+#include "boids.h"
 
 int main() {
     WINDOW *window = initscr();
